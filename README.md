@@ -7,3 +7,5 @@
 
 04:http://codekata.com/kata/kata11-sorting-it-out/
 
+05:http://codekata.com/kata/kata15-a-diversion/
+
